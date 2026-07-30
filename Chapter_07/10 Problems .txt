@@ -1,0 +1,36 @@
+ Basic Loop MechanicsProblem 1: The Multiples FilterWrite a program that prints all numbers from 1 to 50, but skips numbers that are multiples of 3.
+ Problem 2: Factorial CalculatorAsk the user for a positive integer and calculate its factorial using a while loop.
+ Problem 3: Password ValidatorCreate a while loop that continually asks a user to enter a password until they type the correct string "Python2026".
+ 
+ 📊 Intermediate Data & Logic
+ Problem 4: The Digit SumTake an integer input from the user (e.g., 1432) and use 
+ a loop to calculate the sum of its individual digits (1 + 4 + 3 + 2 = 10). Do not 
+ convert the integer to a string.
+
+ Problem 5:
+ Prime Number CheckerWrite a loop that takes an input number and checks
+ whether it is a prime number (only divisible by 1 and itself).
+
+ Problem 6: Fibonacci Sequence GeneratorPrompt the user for a number N and use a
+  loop to print the first N numbers in the Fibonacci sequence 
+  (0, 1, 1, 2, 3, 5, 8...).
+
+ Problem 7: Temperature Average Tracker Write a program that lets a user enter 
+ daily temperatures. The loop should stop when the user enters -999. Then,
+  print the average of all entered temperatures (excluding the -999)
+
+ .🎓 University-Level Algorithmic Thinking
+ Problem 8: Nested Number PyramidUse nested loops to print the following
+  pattern up to N rows (example shown for N=4):text
+1
+2 2
+3 3 3
+4 4 4 4
+Use code with caution.
+Problem 9: The Collatz Conjecture Take any positive integer n. If it is even,
+ divide it by 2. If it is odd, multiply it by 3 and add 1. Repeat this process 
+ using a loop until n becomes 1. Print the sequence of numbers.
+
+Problem 10: Array Element FrequencyGiven a list of numbers
+ (e.g., [1, 3, 2, 1, 4, 1, 3]), use loops to count and print how many times each
+  number appears. Do not use built-in Python shortcuts like .count() or Counter.

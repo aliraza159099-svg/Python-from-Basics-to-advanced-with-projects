@@ -1,0 +1,6 @@
+This is the Chapter 06 of learning Python
+
+Conditionals will be discussed here:
+if else elif or and etc
+
+

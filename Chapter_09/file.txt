@@ -1,0 +1,3 @@
+This is the file creating using the with
+There is no such a file in the folder it should make
+a file named as file.txt
