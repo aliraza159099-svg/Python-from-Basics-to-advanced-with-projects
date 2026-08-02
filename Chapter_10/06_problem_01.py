@@ -1,7 +1,7 @@
 ''' Making a system to store the basic information 
 of the employees at Microsoft'''
 
-class Employee_at_Microsoft():
+class Employee_at_Microsoft:
     def __init__(self,name,salary,address):
         self.name = name
         self.salary = salary
