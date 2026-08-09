@@ -2,7 +2,7 @@
 class Employee:
     company = "Raza Tech"
     def __init__(self,name):
-        print("Parent is called")
+        # print("Parent is called")
         self.name = name
 
     def getInfo(self):
